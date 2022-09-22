@@ -2,7 +2,7 @@
 
 ## Matriz 1:
 
-- **Notas de colegio**: Egresados Colegio, `PROM_NOTAS_ALU`. En matriz final: `prom_notas_ultimo_anio_col`
+- **Notas de colegio**: Egresados Colegio, `PROM_NOTAS_ALU`. En matriz final: `prom_notas_media`
 - **Región del colegio**: Egresados Colegio, `COD_REG_RBD`. En matriz final: `region_colegio`
 - **Modalidad del colegio (científico humanista / técnico)**: Egresados Colegio, `COD_ENSE`. En matriz final: `tipo_ensenanza_colegio`
 - **Tipo de establecimiento (particular, subvencionado, municipal)**: Establecimientos, `cod_depe`. En matriz final: `dependencia_colegio`
@@ -15,8 +15,3 @@
 Ruta archivo: https://drive.google.com/file/d/1JABykXdUoRa_Y5cNaCip-OP1xBZNgtds/view?usp=sharing
 
 Ruta notebook: https://github.com/GianniCatBug/MDS7201-mineduc-desercion/blob/main/notebooks/3-seleccion-atributos.ipynb
-
-**NOTA 1**: Muchos nulos en `cod_depe` al hacer el cruce, solo tomé los colegios desde el 2004, se podría tomar anteriores.
-
-**NOTA 2**: Solo tomé el último año de enseñanza, podrían tomarse los 4 años de enseñanza media y promediarse.
-
