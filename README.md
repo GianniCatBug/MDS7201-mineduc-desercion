@@ -12,6 +12,6 @@
 - **Región de la institución de educación superior**: Matriculados, `region_sede`.
 - **Desertor**: Vector objetivo; Aquel que no se ha titulado ni se ha matriculado al año 2022. En matriz final: `desertor_1`
 
-Ruta archivo: https://drive.google.com/file/d/1JABykXdUoRa_Y5cNaCip-OP1xBZNgtds/view?usp=sharing
+Ruta archivo: https://drive.google.com/file/d/1qVsWgYH5GiEEwxxgRtKal6Ge7safzni8/view?usp=sharing
 
 Ruta notebook: https://github.com/GianniCatBug/MDS7201-mineduc-desercion/blob/main/notebooks/3-seleccion-atributos.ipynb
