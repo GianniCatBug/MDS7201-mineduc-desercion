@@ -15,3 +15,5 @@
 Ruta archivo: https://drive.google.com/file/d/1qVsWgYH5GiEEwxxgRtKal6Ge7safzni8/view?usp=sharing
 
 Ruta notebook: https://github.com/GianniCatBug/MDS7201-mineduc-desercion/blob/main/notebooks/3-seleccion-atributos.ipynb
+
+Ruta geojson regiones: https://drive.google.com/file/d/1dwzVGss_7v8xRUk7AEIpUT_tCGZH8gOc/view?usp=sharing
