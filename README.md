@@ -16,4 +16,13 @@ Ruta archivo: https://drive.google.com/file/d/1qVsWgYH5GiEEwxxgRtKal6Ge7safzni8/
 
 Ruta notebook: https://github.com/GianniCatBug/MDS7201-mineduc-desercion/blob/main/notebooks/3-seleccion-atributos.ipynb
 
+## Matriz 2:
+- **Valor Arancel**: Matriculados, `valor_arancel` (Matriz 2).
+- **Estado acreditación carrera**: Matriculados, `acreditada_carr` (Matriz 2).
+- **Estado acreditación institución**: Matriculados, `acreditada_inst` (Matriz 2).
+
+Ruta archivo: https://drive.google.com/file/d/1PeLTd4-Yjbkag6NAKO54TYfyt_1yvsD5/view?usp=sharing
+
+## Otros
+
 Ruta geojson regiones: https://drive.google.com/file/d/1dwzVGss_7v8xRUk7AEIpUT_tCGZH8gOc/view?usp=sharing
