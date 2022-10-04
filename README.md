@@ -20,6 +20,7 @@ Ruta notebook: https://github.com/GianniCatBug/MDS7201-mineduc-desercion/blob/ma
 - **Valor Arancel**: Matriculados, `valor_arancel` (Matriz 2).
 - **Estado acreditación carrera**: Matriculados, `acreditada_carr` (Matriz 2).
 - **Estado acreditación institución**: Matriculados, `acreditada_inst` (Matriz 2).
+- **Cantidad de becas**: Becas y créditos, `BENEFICIO_BECA_FSCU` (Matriz 2).
 
 Ruta archivo: https://drive.google.com/file/d/1PeLTd4-Yjbkag6NAKO54TYfyt_1yvsD5/view?usp=sharing
 
