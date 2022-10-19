@@ -24,6 +24,10 @@ Ruta notebook: https://github.com/GianniCatBug/MDS7201-mineduc-desercion/blob/ma
 
 Ruta archivo: https://drive.google.com/file/d/1TWj9DgtmFG72g547Uoro_jBCKAhqNbbn/view?usp=sharing
 
+## Matriz Dummy:
+
+Ruta archivo: https://drive.google.com/file/d/11XHfbQXuERgW0ddcHJ_oBEueEhcR8ZCu/view?usp=sharing
+
 ## Otros
 
 Ruta geojson regiones: https://drive.google.com/file/d/1dwzVGss_7v8xRUk7AEIpUT_tCGZH8gOc/view?usp=sharing
