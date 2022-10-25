@@ -26,7 +26,7 @@ Ruta archivo: https://drive.google.com/file/d/1TWj9DgtmFG72g547Uoro_jBCKAhqNbbn/
 
 ## Matriz Dummy:
 
-Ruta archivo: https://drive.google.com/file/d/11XHfbQXuERgW0ddcHJ_oBEueEhcR8ZCu/view?usp=sharing
+Ruta archivo: https://drive.google.com/file/d/1M46ZpLA3SL26KWcQD9KoTiyfqDu4KPo-/view?usp=sharing
 
 ## Otros
 
