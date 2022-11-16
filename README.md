@@ -24,9 +24,14 @@ Ruta notebook: https://github.com/GianniCatBug/MDS7201-mineduc-desercion/blob/ma
 
 Ruta archivo: https://drive.google.com/file/d/1TWj9DgtmFG72g547Uoro_jBCKAhqNbbn/view?usp=sharing
 
+## Matriz 3:
+- **FSCU**: Tiene fondo solidario, `BENEFICIO_BECA_FSCU` (Matriz 3).
+- **gratuidad**: Tiene gratuidad, `BENEFICIO_BECA_FSCU` (Matriz 3).
+- **beca**: Tiene beca, `BENEFICIO_BECA_FSCU` (Matriz 3).
+
 ## Matriz Dummy:
 
-Ruta archivo: https://drive.google.com/file/d/1M46ZpLA3SL26KWcQD9KoTiyfqDu4KPo-/view?usp=sharing
+Ruta archivo: https://drive.google.com/file/d/1Fv2yJPFCRZTkCfvvGbf5TH6csoeV2jRk/view?usp=sharing
 
 ## Otros
 
