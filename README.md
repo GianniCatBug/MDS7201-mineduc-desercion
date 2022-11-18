@@ -29,9 +29,20 @@ Ruta archivo: https://drive.google.com/file/d/1TWj9DgtmFG72g547Uoro_jBCKAhqNbbn/
 - **gratuidad**: Tiene gratuidad, `BENEFICIO_BECA_FSCU` (Matriz 3).
 - **beca**: Tiene beca, `BENEFICIO_BECA_FSCU` (Matriz 3).
 
+Ruta archivo: https://drive.google.com/file/d/1anNyWcUCDUqndFgZTFL4GJmD3hpF4a7w/view?usp=sharing
+
+## Matriz 4:
+- **Jornada**: Diurno o vespertino (Matriz 4).
+- **Duración carrera**: Duración en semestres de la carrera (Matriz 4).
+- **Duración titulación**: Duración en semestres del proceso de titulación (Matriz 4).
+
+Se corrige además el valor del arancel, para lo cual se tiene que consultar el formato del valor.
+
+Ruta archivo: https://drive.google.com/file/d/1itpZ3CrdcqBqaoDDHjLpBGfftfKOt_lP/view?usp=sharing
+
 ## Matriz Dummy:
 
-Ruta archivo: https://drive.google.com/file/d/1Fv2yJPFCRZTkCfvvGbf5TH6csoeV2jRk/view?usp=sharing
+Ruta archivo:
 
 ## Otros
 
