@@ -40,9 +40,11 @@ Se corrige además el valor del arancel, para lo cual se tiene que consultar el 
 
 Ruta archivo: https://drive.google.com/file/d/1itpZ3CrdcqBqaoDDHjLpBGfftfKOt_lP/view?usp=sharing
 
-## Matriz Dummy:
+## Matriz:
 
-Ruta archivo:
+- No dummy: https://drive.google.com/file/d/1nlpwjMaJckDTwhxuYSBV4HV0MHFIvWbb/view?usp=sharing
+- Dummy con drop: https://drive.google.com/file/d/1KUvrqhEa3jef0dDEGOqIMLjFfmtJTyfQ/view?usp=sharing
+- Dummy sin drop: https://drive.google.com/file/d/1CKaaDYPv2-D8oOONcImcFob3JGqZfwca/view?usp=sharing
 
 ## Otros
 
