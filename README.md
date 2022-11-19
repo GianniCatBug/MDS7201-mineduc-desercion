@@ -45,6 +45,7 @@ Ruta archivo: https://drive.google.com/file/d/1itpZ3CrdcqBqaoDDHjLpBGfftfKOt_lP/
 - No dummy: https://drive.google.com/file/d/1nlpwjMaJckDTwhxuYSBV4HV0MHFIvWbb/view?usp=sharing
 - Dummy con drop: https://drive.google.com/file/d/1KUvrqhEa3jef0dDEGOqIMLjFfmtJTyfQ/view?usp=sharing
 - Dummy sin drop: https://drive.google.com/file/d/1CKaaDYPv2-D8oOONcImcFob3JGqZfwca/view?usp=sharing
+- Matriz solo 2015 y mejores atributos: https://drive.google.com/file/d/1q6I-m82lKHINrUMdVPGQEquWBkSPUAIz/view?usp=sharing
 
 ## Otros
 
