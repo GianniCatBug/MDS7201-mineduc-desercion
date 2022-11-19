@@ -42,9 +42,9 @@ Ruta archivo: https://drive.google.com/file/d/1itpZ3CrdcqBqaoDDHjLpBGfftfKOt_lP/
 
 ## Matriz:
 
-No dummy: https://drive.google.com/file/d/1ucdt75f6pYj8OpioUhmRbiTXmlmNw7QG/view?usp=sharing
-Dummy con drop: https://drive.google.com/file/d/1V5u0QzfgWAQ4Sa5s82IYiZK6IyULBmBb/view?usp=sharing
-Dummy sin drop: https://drive.google.com/file/d/1c4eQDdFi2gz9WmHsf6WMchPhSXOsEi0u/view?usp=sharing
+- No dummy: https://drive.google.com/file/d/1ucdt75f6pYj8OpioUhmRbiTXmlmNw7QG/view?usp=sharing
+- Dummy con drop: https://drive.google.com/file/d/1V5u0QzfgWAQ4Sa5s82IYiZK6IyULBmBb/view?usp=sharing
+- Dummy sin drop: https://drive.google.com/file/d/1c4eQDdFi2gz9WmHsf6WMchPhSXOsEi0u/view?usp=sharing
 
 ## Otros
 
