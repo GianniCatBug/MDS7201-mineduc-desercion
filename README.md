@@ -50,3 +50,5 @@ Ruta archivo: https://drive.google.com/file/d/1itpZ3CrdcqBqaoDDHjLpBGfftfKOt_lP/
 ## Otros
 
 Ruta geojson regiones: https://drive.google.com/file/d/1dwzVGss_7v8xRUk7AEIpUT_tCGZH8gOc/view?usp=sharing
+
+Modelo grilla XGB: https://drive.google.com/file/d/1GKJKVgOq9m08uwKrFhJ42cR0m4twY7L1/view?usp=sharing
