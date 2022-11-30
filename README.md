@@ -42,9 +42,9 @@ Ruta archivo: https://drive.google.com/file/d/1itpZ3CrdcqBqaoDDHjLpBGfftfKOt_lP/
 
 ## Matriz:
 
-- No dummy: https://drive.google.com/file/d/1nlpwjMaJckDTwhxuYSBV4HV0MHFIvWbb/view?usp=sharing
-- Dummy con drop: https://drive.google.com/file/d/1KUvrqhEa3jef0dDEGOqIMLjFfmtJTyfQ/view?usp=sharing
-- Dummy sin drop: https://drive.google.com/file/d/1CKaaDYPv2-D8oOONcImcFob3JGqZfwca/view?usp=sharing
+- No dummy: https://drive.google.com/file/d/1r5VsqBJuXqlLxflkQQmHFav8v99FeAlF/view?usp=sharing
+- Dummy con drop: https://drive.google.com/file/d/1BbGXKMFgSFzs_mdYAXAvHntXAzGG7tha/view?usp=sharing
+- Dummy sin drop: https://drive.google.com/file/d/1O0NdyfwdhWEA9s4Xvuo10ZWUd7bLam3F/view?usp=sharing
 - Matriz solo 2015 y mejores atributos: https://drive.google.com/file/d/1q6I-m82lKHINrUMdVPGQEquWBkSPUAIz/view?usp=sharing
 
 ## Otros
