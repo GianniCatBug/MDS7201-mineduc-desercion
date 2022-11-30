@@ -53,4 +53,4 @@ Agrega atributo **Sub tipo de institución**: CFT Privado, CFT Estatal, IP Priva
 
 Ruta geojson regiones: https://drive.google.com/file/d/1dwzVGss_7v8xRUk7AEIpUT_tCGZH8gOc/view?usp=sharing
 
-Modelo grilla XGB: https://drive.google.com/file/d/1GKJKVgOq9m08uwKrFhJ42cR0m4twY7L1/view?usp=sharing
+Modelo grilla XGB: https://drive.google.com/file/d/1uf2Bi9srohSl5QmAj6AMl8CWduc43aur/view?usp=sharing
