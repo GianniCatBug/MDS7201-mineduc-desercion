@@ -40,12 +40,14 @@ Se corrige además el valor del arancel, para lo cual se tiene que consultar el 
 
 Ruta archivo: https://drive.google.com/file/d/1itpZ3CrdcqBqaoDDHjLpBGfftfKOt_lP/view?usp=sharing
 
-## Matriz:
+## Matrices de trabajo:
+
+Agrega atributo **Sub tipo de institución**: CFT Privado, CFT Estatal, IP Privado con presencia nacional, IP Privado
 
 - No dummy: https://drive.google.com/file/d/1r5VsqBJuXqlLxflkQQmHFav8v99FeAlF/view?usp=sharing
 - Dummy con drop: https://drive.google.com/file/d/1BbGXKMFgSFzs_mdYAXAvHntXAzGG7tha/view?usp=sharing
 - Dummy sin drop: https://drive.google.com/file/d/1O0NdyfwdhWEA9s4Xvuo10ZWUd7bLam3F/view?usp=sharing
-- Matriz solo 2015 y mejores atributos: https://drive.google.com/file/d/1q6I-m82lKHINrUMdVPGQEquWBkSPUAIz/view?usp=sharing
+- Matriz solo 2015 y mejores atributos: 
 
 ## Otros
 
